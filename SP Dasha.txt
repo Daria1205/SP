@@ -2,8 +2,5 @@ second attempt
 
 new feature branch
 
-<<<<<<< HEAD
-new-new feature branch
-=======
 changes to main branch
->>>>>>> main
+
